@@ -113,6 +113,7 @@ h6 {
     color: #fff;
     border-radius: 5px;
     transition: .3s;
+    font-weight: 700;
 }
 
 .navbar .container .navbar-nav a:hover {
