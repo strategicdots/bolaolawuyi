@@ -1,0 +1,41 @@
+/*  INNER PAGES */
+
+.inner-content {
+    padding: 60px 0;
+}
+
+.inner-content .serv-lead {
+    margin-bottom: 10px;
+}
+
+.inner-content ul {
+    padding: 0;
+    list-style: none;
+}
+
+.inner-content ul li {
+    margin-bottom: 5px;
+}
+
+.inner-content .col-sm-8 li {
+    padding-left: 15px;
+    text-transform: capitalize;
+    position: relative;
+}
+
+.inner-content .col-sm-8 ul li:after {
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: #0079E3;
+    position: absolute;
+    display: block;
+    left: -2px;
+    bottom: 4.5px;
+    border-radius: 50%;
+}
+
+.staff-ft-lead {
+    text-transform: capitalize;
+    color: #0079E3;
+}
